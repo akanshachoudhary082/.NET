@@ -9,7 +9,7 @@ namespace StudentInfoWeb.Repositories
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             string connstring = @"server = localhost;port=3306;user = root ; password=root123;database=students;";
-            optionsBuilder.UseMySQL(connstring);
+            optionsBuilder.UseSqlServer(connstring);
         }
 
 

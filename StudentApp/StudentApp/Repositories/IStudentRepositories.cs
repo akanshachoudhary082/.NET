@@ -11,11 +11,11 @@ namespace StudentInfoWeb.Repositories
 
         void Insert(Student stu);
 
-        void Search(int id);
+        //List<Student>SearchByStatus(string status);
 
         void Update(Student stu);
         void Delete(int id);
-        void Sort(Student stu);
+        List<Student> SortStudents();
 
 
     }

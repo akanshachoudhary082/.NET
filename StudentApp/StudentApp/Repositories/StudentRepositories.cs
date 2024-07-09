@@ -1,4 +1,7 @@
 ﻿using StudentInfoWeb.Models;
+using System.Linq;
+using System.Collections.Generic;
+
 
 namespace StudentInfoWeb.Repositories
 {
@@ -8,8 +11,7 @@ namespace StudentInfoWeb.Repositories
         {
             using (var context = new CollectionContext())
             {
-                context.Students.Remove(context.Students.
-                    Find(id));
+                context.Students.Remove(context.Students.Find(id));
                 context.SaveChanges();
             }
         }
@@ -67,7 +69,7 @@ namespace StudentInfoWeb.Repositories
         {
             using (var context = new CollectionContext())
             {
-                return context.Students.OrderByDescending(s => s.Status).ToList();
+                return context.Students.OrderBy(s => s.Status).ToList();
             }
         }
     }
