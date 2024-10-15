@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Iacsd Assignment\\.NET\\String\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92266026-44F8-402B-9DE1-8F3F1AFA8120}|ToggleString\\ToggleString.csproj|e:\\iacsd assignment\\.net\\string\\togglestring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92266026-44F8-402B-9DE1-8F3F1AFA8120}|ToggleString\\ToggleString.csproj|solutionrelative:togglestring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4359C561-8CE2-43EB-A78C-409B63AC53B5}|Remove\\Remove.csproj|e:\\iacsd assignment\\.net\\string\\remove\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4359C561-8CE2-43EB-A78C-409B63AC53B5}|Remove\\Remove.csproj|solutionrelative:remove\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B160903E-7AE5-4608-B780-D0CC37DF8030}|PalindromeString\\PalindromeString.csproj|e:\\iacsd assignment\\.net\\string\\palindromestring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B160903E-7AE5-4608-B780-D0CC37DF8030}|PalindromeString\\PalindromeString.csproj|solutionrelative:palindromestring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EDDCB6-9843-4DB1-BBB4-17BCAF8A83C5}|RemoveVowel\\RemoveVowel.csproj|e:\\iacsd assignment\\.net\\string\\removevowel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EDDCB6-9843-4DB1-BBB4-17BCAF8A83C5}|RemoveVowel\\RemoveVowel.csproj|solutionrelative:removevowel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89880D32-3E77-4B7E-8A7A-A0691D5C438B}|RemoveSpaces\\RemoveSpaces.csproj|e:\\iacsd assignment\\.net\\string\\removespaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89880D32-3E77-4B7E-8A7A-A0691D5C438B}|RemoveSpaces\\RemoveSpaces.csproj|solutionrelative:removespaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E42E7F-0589-4B9E-95C8-0B5079E3FB8F}|ReplaceWordInAString\\ReplaceWordInAString.csproj|e:\\iacsd assignment\\.net\\string\\replacewordinastring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44E42E7F-0589-4B9E-95C8-0B5079E3FB8F}|ReplaceWordInAString\\ReplaceWordInAString.csproj|solutionrelative:replacewordinastring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C91B51B-53A0-4688-AAB4-01161CC0A8DC}|ReverseString\\ReverseString.csproj|e:\\iacsd assignment\\.net\\string\\reversestring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C91B51B-53A0-4688-AAB4-01161CC0A8DC}|ReverseString\\ReverseString.csproj|solutionrelative:reversestring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B357C5E-912B-4EA6-929A-594FC7771612}|ReverseStringOfEachWord\\ReverseStringOfEachWord.csproj|e:\\iacsd assignment\\.net\\string\\reversestringofeachword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B357C5E-912B-4EA6-929A-594FC7771612}|ReverseStringOfEachWord\\ReverseStringOfEachWord.csproj|solutionrelative:reversestringofeachword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C2EC7C-02DB-4B36-84CB-F0CD45EB3915}|SwapPairOfCharacters\\SwapPairOfCharacters.csproj|e:\\iacsd assignment\\.net\\string\\swappairofcharacters\\swappairofcharacters.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{00C2EC7C-02DB-4B36-84CB-F0CD45EB3915}|SwapPairOfCharacters\\SwapPairOfCharacters.csproj|solutionrelative:swappairofcharacters\\swappairofcharacters.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C2EC7C-02DB-4B36-84CB-F0CD45EB3915}|SwapPairOfCharacters\\SwapPairOfCharacters.csproj|e:\\iacsd assignment\\.net\\string\\swappairofcharacters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C2EC7C-02DB-4B36-84CB-F0CD45EB3915}|SwapPairOfCharacters\\SwapPairOfCharacters.csproj|solutionrelative:swappairofcharacters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F718D24D-1835-4C61-B891-1E735B3AE1FF}|CountSumOfNumbersInString\\CountSumOfNumbersInString.csproj|e:\\iacsd assignment\\.net\\string\\countsumofnumbersinstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F718D24D-1835-4C61-B891-1E735B3AE1FF}|CountSumOfNumbersInString\\CountSumOfNumbersInString.csproj|solutionrelative:countsumofnumbersinstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34517AB2-A01F-4F63-8548-6DFA732CE467}|FindLengthOfAString\\FindLengthOfAString.csproj|e:\\iacsd assignment\\.net\\string\\findlengthofastring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34517AB2-A01F-4F63-8548-6DFA732CE467}|FindLengthOfAString\\FindLengthOfAString.csproj|solutionrelative:findlengthofastring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4602FA26-CC65-48CA-8C5C-2768DBEE900C}|Sttrings\\FrequencyOfString.csproj|e:\\iacsd assignment\\.net\\string\\sttrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4602FA26-CC65-48CA-8C5C-2768DBEE900C}|Sttrings\\FrequencyOfString.csproj|solutionrelative:sttrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BB2B3A-C21D-4FDF-ACF8-A6AF9475680D}|FindMaxCharOccurence\\FindMaxCharOccurence.csproj|e:\\iacsd assignment\\.net\\string\\findmaxcharoccurence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BB2B3A-C21D-4FDF-ACF8-A6AF9475680D}|FindMaxCharOccurence\\FindMaxCharOccurence.csproj|solutionrelative:findmaxcharoccurence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBECEC5-8625-4BCE-A651-A82A47037A27}|CapitalizeFirstAndLastChar\\CapitalizeFirstAndLastChar.csproj|e:\\iacsd assignment\\.net\\string\\capitalizefirstandlastchar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBECEC5-8625-4BCE-A651-A82A47037A27}|CapitalizeFirstAndLastChar\\CapitalizeFirstAndLastChar.csproj|solutionrelative:capitalizefirstandlastchar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088D7AB9-974E-4BFC-9D5F-8F3C0AB9C2E0}|FindFirstNonRepeatingChar\\FindFirstNonRepeatingChar.csproj|e:\\iacsd assignment\\.net\\string\\findfirstnonrepeatingchar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088D7AB9-974E-4BFC-9D5F-8F3C0AB9C2E0}|FindFirstNonRepeatingChar\\FindFirstNonRepeatingChar.csproj|solutionrelative:findfirstnonrepeatingchar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF22A93A-4ADB-47FB-9634-FE7F054085F9}|Anagram\\Anagram.csproj|e:\\iacsd assignment\\.net\\string\\anagram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF22A93A-4ADB-47FB-9634-FE7F054085F9}|Anagram\\Anagram.csproj|solutionrelative:anagram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Iacsd Assignment\\.NET\\String\\ToggleString\\Program.cs",
+              "RelativeDocumentMoniker": "ToggleString\\Program.cs",
+              "ToolTip": "E:\\Iacsd Assignment\\.NET\\String\\ToggleString\\Program.cs",
+              "RelativeToolTip": "ToggleString\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA1wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:10:26.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Iacsd Assignment\\.NET\\String\\Remove\\Program.cs",
+              "RelativeDocumentMoniker": "Remove\\Program.cs",
+              "ToolTip": "E:\\Iacsd Assignment\\.NET\\String\\Remove\\Program.cs",
+              "RelativeToolTip": "Remove\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:02:33.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Iacsd Assignment\\.NET\\String\\RemoveSpaces\\Program.cs",
+              "RelativeDocumentMoniker": "RemoveSpaces\\Program.cs",
+              "ToolTip": "E:\\Iacsd Assignment\\.NET\\String\\RemoveSpaces\\Program.cs",
+              "RelativeToolTip": "RemoveSpaces\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:56:48.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Iacsd Assignment\\.NET\\String\\RemoveVowel\\Program.cs",
+              "RelativeDocumentMoniker": "RemoveVowel\\Program.cs",
+              "ToolTip": "E:\\Iacsd Assignment\\.NET\\String\\RemoveVowel\\Program.cs",
+              "RelativeToolTip": "RemoveVowel\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:49:30.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SwapPairOfCharacters",
+              "DocumentMoniker": "E:\\Iacsd Assignment\\.NET\\String\\SwapPairOfCharacters\\SwapPairOfCharacters.csproj",
+              "RelativeDocumentMoniker": "SwapPairOfCharacters\\SwapPairOfCharacters.csproj",
+              "ToolTip": "E:\\Iacsd Assignment\\.NET\\String\\SwapPairOfCharacters\\SwapPairOfCharacters.csproj",
+              "RelativeToolTip": "SwapPairOfCharacters\\SwapPairOfCharacters.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-15T13:44:09.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Iacsd Assignment\\.NET\\String\\ReplaceWordInAString\\Program.cs",
+              "RelativeDocumentMoniker": "ReplaceWordInAString\\Program.cs",
+              "ToolTip": "E:\\Iacsd Assignment\\.NET\\String\\ReplaceWordInAString\\Program.cs",
+              "RelativeToolTip": "ReplaceWordInAString\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:46:09.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Iacsd Assignment\\.NET\\String\\SwapPairOfCharacters\\Program.cs",
+              "RelativeDocumentMoniker": "SwapPairOfCharacters\\Program.cs",
+              "ToolTip": "E:\\Iacsd Assignment\\.NET\\String\\SwapPairOfCharacters\\Program.cs",
+              "RelativeToolTip": "SwapPairOfCharacters\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:40:58.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Iacsd Assignment\\.NET\\String\\ReverseStringOfEachWord\\Program.cs",
+              "RelativeDocumentMoniker": "ReverseStringOfEachWord\\Program.cs",
+              "ToolTip": "E:\\Iacsd Assignment\\.NET\\String\\ReverseStringOfEachWord\\Program.cs",
+              "RelativeToolTip": "ReverseStringOfEachWord\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:31:02.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Iacsd Assignment\\.NET\\String\\ReverseString\\Program.cs",
+              "RelativeDocumentMoniker": "ReverseString\\Program.cs",
+              "ToolTip": "E:\\Iacsd Assignment\\.NET\\String\\ReverseString\\Program.cs",
+              "RelativeToolTip": "ReverseString\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:28:10.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Iacsd Assignment\\.NET\\String\\PalindromeString\\Program.cs",
+              "RelativeDocumentMoniker": "PalindromeString\\Program.cs",
+              "ToolTip": "E:\\Iacsd Assignment\\.NET\\String\\PalindromeString\\Program.cs",
+              "RelativeToolTip": "PalindromeString\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:17:07.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Iacsd Assignment\\.NET\\String\\FindLengthOfAString\\Program.cs",
+              "RelativeDocumentMoniker": "FindLengthOfAString\\Program.cs",
+              "ToolTip": "E:\\Iacsd Assignment\\.NET\\String\\FindLengthOfAString\\Program.cs",
+              "RelativeToolTip": "FindLengthOfAString\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:11:12.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Iacsd Assignment\\.NET\\String\\CountSumOfNumbersInString\\Program.cs",
+              "RelativeDocumentMoniker": "CountSumOfNumbersInString\\Program.cs",
+              "ToolTip": "E:\\Iacsd Assignment\\.NET\\String\\CountSumOfNumbersInString\\Program.cs",
+              "RelativeToolTip": "CountSumOfNumbersInString\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:04:31.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Iacsd Assignment\\.NET\\String\\CapitalizeFirstAndLastChar\\Program.cs",
+              "RelativeDocumentMoniker": "CapitalizeFirstAndLastChar\\Program.cs",
+              "ToolTip": "E:\\Iacsd Assignment\\.NET\\String\\CapitalizeFirstAndLastChar\\Program.cs",
+              "RelativeToolTip": "CapitalizeFirstAndLastChar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:54:03.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Iacsd Assignment\\.NET\\String\\FindMaxCharOccurence\\Program.cs",
+              "RelativeDocumentMoniker": "FindMaxCharOccurence\\Program.cs",
+              "ToolTip": "E:\\Iacsd Assignment\\.NET\\String\\FindMaxCharOccurence\\Program.cs",
+              "RelativeToolTip": "FindMaxCharOccurence\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:39:27.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Iacsd Assignment\\.NET\\String\\FindFirstNonRepeatingChar\\Program.cs",
+              "RelativeDocumentMoniker": "FindFirstNonRepeatingChar\\Program.cs",
+              "ToolTip": "E:\\Iacsd Assignment\\.NET\\String\\FindFirstNonRepeatingChar\\Program.cs",
+              "RelativeToolTip": "FindFirstNonRepeatingChar\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:31:25.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Iacsd Assignment\\.NET\\String\\Anagram\\Program.cs",
+              "RelativeDocumentMoniker": "Anagram\\Program.cs",
+              "ToolTip": "E:\\Iacsd Assignment\\.NET\\String\\Anagram\\Program.cs",
+              "RelativeToolTip": "Anagram\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:29:15.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Iacsd Assignment\\.NET\\String\\Sttrings\\Program.cs",
+              "RelativeDocumentMoniker": "Sttrings\\Program.cs",
+              "ToolTip": "E:\\Iacsd Assignment\\.NET\\String\\Sttrings\\Program.cs",
+              "RelativeToolTip": "Sttrings\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:18:41.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

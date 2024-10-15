@@ -1,0 +1,15 @@
+E:\Iacsd Assignment\.NET\String\Sttrings\bin\Debug\net8.0\FrequencyOfString.exe
+E:\Iacsd Assignment\.NET\String\Sttrings\bin\Debug\net8.0\FrequencyOfString.deps.json
+E:\Iacsd Assignment\.NET\String\Sttrings\bin\Debug\net8.0\FrequencyOfString.runtimeconfig.json
+E:\Iacsd Assignment\.NET\String\Sttrings\bin\Debug\net8.0\FrequencyOfString.dll
+E:\Iacsd Assignment\.NET\String\Sttrings\bin\Debug\net8.0\FrequencyOfString.pdb
+E:\Iacsd Assignment\.NET\String\Sttrings\obj\Debug\net8.0\FrequencyOfString.GeneratedMSBuildEditorConfig.editorconfig
+E:\Iacsd Assignment\.NET\String\Sttrings\obj\Debug\net8.0\FrequencyOfString.AssemblyInfoInputs.cache
+E:\Iacsd Assignment\.NET\String\Sttrings\obj\Debug\net8.0\FrequencyOfString.AssemblyInfo.cs
+E:\Iacsd Assignment\.NET\String\Sttrings\obj\Debug\net8.0\FrequencyOfString.csproj.CoreCompileInputs.cache
+E:\Iacsd Assignment\.NET\String\Sttrings\obj\Debug\net8.0\FrequencyOfString.sourcelink.json
+E:\Iacsd Assignment\.NET\String\Sttrings\obj\Debug\net8.0\FrequencyOfString.dll
+E:\Iacsd Assignment\.NET\String\Sttrings\obj\Debug\net8.0\refint\FrequencyOfString.dll
+E:\Iacsd Assignment\.NET\String\Sttrings\obj\Debug\net8.0\FrequencyOfString.pdb
+E:\Iacsd Assignment\.NET\String\Sttrings\obj\Debug\net8.0\FrequencyOfString.genruntimeconfig.cache
+E:\Iacsd Assignment\.NET\String\Sttrings\obj\Debug\net8.0\ref\FrequencyOfString.dll

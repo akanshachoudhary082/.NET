@@ -1,0 +1,15 @@
+E:\Iacsd Assignment\.NET\String\PalindromeString\bin\Debug\net8.0\PalindromeString.exe
+E:\Iacsd Assignment\.NET\String\PalindromeString\bin\Debug\net8.0\PalindromeString.deps.json
+E:\Iacsd Assignment\.NET\String\PalindromeString\bin\Debug\net8.0\PalindromeString.runtimeconfig.json
+E:\Iacsd Assignment\.NET\String\PalindromeString\bin\Debug\net8.0\PalindromeString.dll
+E:\Iacsd Assignment\.NET\String\PalindromeString\bin\Debug\net8.0\PalindromeString.pdb
+E:\Iacsd Assignment\.NET\String\PalindromeString\obj\Debug\net8.0\PalindromeString.GeneratedMSBuildEditorConfig.editorconfig
+E:\Iacsd Assignment\.NET\String\PalindromeString\obj\Debug\net8.0\PalindromeString.AssemblyInfoInputs.cache
+E:\Iacsd Assignment\.NET\String\PalindromeString\obj\Debug\net8.0\PalindromeString.AssemblyInfo.cs
+E:\Iacsd Assignment\.NET\String\PalindromeString\obj\Debug\net8.0\PalindromeString.csproj.CoreCompileInputs.cache
+E:\Iacsd Assignment\.NET\String\PalindromeString\obj\Debug\net8.0\PalindromeString.sourcelink.json
+E:\Iacsd Assignment\.NET\String\PalindromeString\obj\Debug\net8.0\PalindromeString.dll
+E:\Iacsd Assignment\.NET\String\PalindromeString\obj\Debug\net8.0\refint\PalindromeString.dll
+E:\Iacsd Assignment\.NET\String\PalindromeString\obj\Debug\net8.0\PalindromeString.pdb
+E:\Iacsd Assignment\.NET\String\PalindromeString\obj\Debug\net8.0\PalindromeString.genruntimeconfig.cache
+E:\Iacsd Assignment\.NET\String\PalindromeString\obj\Debug\net8.0\ref\PalindromeString.dll

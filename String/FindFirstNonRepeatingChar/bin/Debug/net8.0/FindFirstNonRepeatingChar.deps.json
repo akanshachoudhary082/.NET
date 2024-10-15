@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FindFirstNonRepeatingChar/1.0.0": {
+        "runtime": {
+          "FindFirstNonRepeatingChar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FindFirstNonRepeatingChar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

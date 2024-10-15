@@ -1,0 +1,15 @@
+E:\Iacsd Assignment\.NET\Arrays\FindMissingNumber\bin\Debug\net8.0\FindMissingNumber.exe
+E:\Iacsd Assignment\.NET\Arrays\FindMissingNumber\bin\Debug\net8.0\FindMissingNumber.deps.json
+E:\Iacsd Assignment\.NET\Arrays\FindMissingNumber\bin\Debug\net8.0\FindMissingNumber.runtimeconfig.json
+E:\Iacsd Assignment\.NET\Arrays\FindMissingNumber\bin\Debug\net8.0\FindMissingNumber.dll
+E:\Iacsd Assignment\.NET\Arrays\FindMissingNumber\bin\Debug\net8.0\FindMissingNumber.pdb
+E:\Iacsd Assignment\.NET\Arrays\FindMissingNumber\obj\Debug\net8.0\FindMissingNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\Iacsd Assignment\.NET\Arrays\FindMissingNumber\obj\Debug\net8.0\FindMissingNumber.AssemblyInfoInputs.cache
+E:\Iacsd Assignment\.NET\Arrays\FindMissingNumber\obj\Debug\net8.0\FindMissingNumber.AssemblyInfo.cs
+E:\Iacsd Assignment\.NET\Arrays\FindMissingNumber\obj\Debug\net8.0\FindMissingNumber.csproj.CoreCompileInputs.cache
+E:\Iacsd Assignment\.NET\Arrays\FindMissingNumber\obj\Debug\net8.0\FindMissingNumber.sourcelink.json
+E:\Iacsd Assignment\.NET\Arrays\FindMissingNumber\obj\Debug\net8.0\FindMissingNumber.dll
+E:\Iacsd Assignment\.NET\Arrays\FindMissingNumber\obj\Debug\net8.0\refint\FindMissingNumber.dll
+E:\Iacsd Assignment\.NET\Arrays\FindMissingNumber\obj\Debug\net8.0\FindMissingNumber.pdb
+E:\Iacsd Assignment\.NET\Arrays\FindMissingNumber\obj\Debug\net8.0\FindMissingNumber.genruntimeconfig.cache
+E:\Iacsd Assignment\.NET\Arrays\FindMissingNumber\obj\Debug\net8.0\ref\FindMissingNumber.dll

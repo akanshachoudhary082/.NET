@@ -1,0 +1,15 @@
+E:\Iacsd Assignment\.NET\String\RemoveSpaces\bin\Debug\net8.0\RemoveSpaces.exe
+E:\Iacsd Assignment\.NET\String\RemoveSpaces\bin\Debug\net8.0\RemoveSpaces.deps.json
+E:\Iacsd Assignment\.NET\String\RemoveSpaces\bin\Debug\net8.0\RemoveSpaces.runtimeconfig.json
+E:\Iacsd Assignment\.NET\String\RemoveSpaces\bin\Debug\net8.0\RemoveSpaces.dll
+E:\Iacsd Assignment\.NET\String\RemoveSpaces\bin\Debug\net8.0\RemoveSpaces.pdb
+E:\Iacsd Assignment\.NET\String\RemoveSpaces\obj\Debug\net8.0\RemoveSpaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\Iacsd Assignment\.NET\String\RemoveSpaces\obj\Debug\net8.0\RemoveSpaces.AssemblyInfoInputs.cache
+E:\Iacsd Assignment\.NET\String\RemoveSpaces\obj\Debug\net8.0\RemoveSpaces.AssemblyInfo.cs
+E:\Iacsd Assignment\.NET\String\RemoveSpaces\obj\Debug\net8.0\RemoveSpaces.csproj.CoreCompileInputs.cache
+E:\Iacsd Assignment\.NET\String\RemoveSpaces\obj\Debug\net8.0\RemoveSpaces.sourcelink.json
+E:\Iacsd Assignment\.NET\String\RemoveSpaces\obj\Debug\net8.0\RemoveSpaces.dll
+E:\Iacsd Assignment\.NET\String\RemoveSpaces\obj\Debug\net8.0\refint\RemoveSpaces.dll
+E:\Iacsd Assignment\.NET\String\RemoveSpaces\obj\Debug\net8.0\RemoveSpaces.pdb
+E:\Iacsd Assignment\.NET\String\RemoveSpaces\obj\Debug\net8.0\RemoveSpaces.genruntimeconfig.cache
+E:\Iacsd Assignment\.NET\String\RemoveSpaces\obj\Debug\net8.0\ref\RemoveSpaces.dll

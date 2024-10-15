@@ -1,0 +1,15 @@
+E:\Iacsd Assignment\.NET\String\CapitalizeFirstAndLastChar\bin\Debug\net8.0\ConstAndVowel.exe
+E:\Iacsd Assignment\.NET\String\CapitalizeFirstAndLastChar\bin\Debug\net8.0\ConstAndVowel.deps.json
+E:\Iacsd Assignment\.NET\String\CapitalizeFirstAndLastChar\bin\Debug\net8.0\ConstAndVowel.runtimeconfig.json
+E:\Iacsd Assignment\.NET\String\CapitalizeFirstAndLastChar\bin\Debug\net8.0\ConstAndVowel.dll
+E:\Iacsd Assignment\.NET\String\CapitalizeFirstAndLastChar\bin\Debug\net8.0\ConstAndVowel.pdb
+E:\Iacsd Assignment\.NET\String\CapitalizeFirstAndLastChar\obj\Debug\net8.0\ConstAndVowel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Iacsd Assignment\.NET\String\CapitalizeFirstAndLastChar\obj\Debug\net8.0\ConstAndVowel.AssemblyInfoInputs.cache
+E:\Iacsd Assignment\.NET\String\CapitalizeFirstAndLastChar\obj\Debug\net8.0\ConstAndVowel.AssemblyInfo.cs
+E:\Iacsd Assignment\.NET\String\CapitalizeFirstAndLastChar\obj\Debug\net8.0\ConstAndVowel.csproj.CoreCompileInputs.cache
+E:\Iacsd Assignment\.NET\String\CapitalizeFirstAndLastChar\obj\Debug\net8.0\ConstAndVowel.sourcelink.json
+E:\Iacsd Assignment\.NET\String\CapitalizeFirstAndLastChar\obj\Debug\net8.0\ConstAndVowel.dll
+E:\Iacsd Assignment\.NET\String\CapitalizeFirstAndLastChar\obj\Debug\net8.0\refint\ConstAndVowel.dll
+E:\Iacsd Assignment\.NET\String\CapitalizeFirstAndLastChar\obj\Debug\net8.0\ConstAndVowel.pdb
+E:\Iacsd Assignment\.NET\String\CapitalizeFirstAndLastChar\obj\Debug\net8.0\ConstAndVowel.genruntimeconfig.cache
+E:\Iacsd Assignment\.NET\String\CapitalizeFirstAndLastChar\obj\Debug\net8.0\ref\ConstAndVowel.dll

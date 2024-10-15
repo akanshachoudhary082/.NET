@@ -1,0 +1,15 @@
+E:\Iacsd Assignment\.NET\String\RemoveVowel\bin\Debug\net8.0\RemoveVowel.exe
+E:\Iacsd Assignment\.NET\String\RemoveVowel\bin\Debug\net8.0\RemoveVowel.deps.json
+E:\Iacsd Assignment\.NET\String\RemoveVowel\bin\Debug\net8.0\RemoveVowel.runtimeconfig.json
+E:\Iacsd Assignment\.NET\String\RemoveVowel\bin\Debug\net8.0\RemoveVowel.dll
+E:\Iacsd Assignment\.NET\String\RemoveVowel\bin\Debug\net8.0\RemoveVowel.pdb
+E:\Iacsd Assignment\.NET\String\RemoveVowel\obj\Debug\net8.0\RemoveVowel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Iacsd Assignment\.NET\String\RemoveVowel\obj\Debug\net8.0\RemoveVowel.AssemblyInfoInputs.cache
+E:\Iacsd Assignment\.NET\String\RemoveVowel\obj\Debug\net8.0\RemoveVowel.AssemblyInfo.cs
+E:\Iacsd Assignment\.NET\String\RemoveVowel\obj\Debug\net8.0\RemoveVowel.csproj.CoreCompileInputs.cache
+E:\Iacsd Assignment\.NET\String\RemoveVowel\obj\Debug\net8.0\RemoveVowel.sourcelink.json
+E:\Iacsd Assignment\.NET\String\RemoveVowel\obj\Debug\net8.0\RemoveVowel.dll
+E:\Iacsd Assignment\.NET\String\RemoveVowel\obj\Debug\net8.0\refint\RemoveVowel.dll
+E:\Iacsd Assignment\.NET\String\RemoveVowel\obj\Debug\net8.0\RemoveVowel.pdb
+E:\Iacsd Assignment\.NET\String\RemoveVowel\obj\Debug\net8.0\RemoveVowel.genruntimeconfig.cache
+E:\Iacsd Assignment\.NET\String\RemoveVowel\obj\Debug\net8.0\ref\RemoveVowel.dll

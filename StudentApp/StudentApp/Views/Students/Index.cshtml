@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Management</title>
+</head>
+<body>
+    <h1>Student Management</h1>
+    <hr />
+    <h2>Students</h2>
+    <table border="1">
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Mobile Number</th>
+            <th>Address</th>
+            <th>Admission Date</th>
+            <th>Fees</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+        <!-- Loop through students from ViewBag or model here -->
+        <tr>
+            <td>1</td>
+            <td>John Doe</td>
+            <td>john.doe@example.com</td>
+            <td>1234567890</td>
+            <td>123 Main St, Anytown</td>
+            <td>2023-01-01</td>
+            <td>1000</td>
+            <td>Active</td>
+            <td>
+                <a href="/students/edit/1">Edit</a>
+                <a href="/students/delete/1">Delete</a>
+            </td>
+        </tr>
+    </table>
+    <br>
+    <a href="/students/add">Add New Student</a>
+</body>
+</html>

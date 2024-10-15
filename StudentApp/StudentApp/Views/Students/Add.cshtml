@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Add Student</title>
+</head>
+<body>
+    <h1>Add Student</h1>
+    <hr />
+    <form method="post" action="/students/add">
+        <label for="id">Student ID</label>
+        <input type="number" name="StudentId" id="id" required>
+        <br><br>
+
+        <label for="name">Name</label>
+        <input type="text" name="StudentName" id="name" required>
+        <br><br>
+
+        <label for="email">Email</label>
+        <input type="email" name="StudentEmail" id="email" required>
+        <br><br>
+
+        <label for="contactNumber">Contact Number</label>
+        <input type="tel" name="MobileNumber" id="contactNumber" required>
+        <br><br>
+
+        <label for="address">Address</label>
+        <input type="text" name="StudentAddress" id="address" required>
+        <br><br>
+
+        <label for="admission">Admission Date</label>
+        <input type="date" name="AdmissionDate" id="admission" required>
+        <br><br>
+
+        <label for="fees">Fees</label>
+        <input type="number" step="0.01" name="Fees" id="fees" required>
+        <br><br>
+
+        <label for="status">Status</label>
+        <select name="Status" id="status" required>
+            <option value="Active">Active</option>
+            <option value="Inactive">Inactive</option>
+            <option value="Graduated">Graduated</option>
+            <option value="Expelled">Expelled</option>
+        </select>
+        <br><br>
+
+        <input type="submit" value="Insert">
+    </form>
+    <br>
+    <a href="/students">Back to List</a>
+</body>
+</html>

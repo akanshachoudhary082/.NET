@@ -1,0 +1,24 @@
+﻿@using StudentInfoWeb.Models
+
+
+@{
+    List<Student> students = (List<Student>)ViewData["catalog"];
+
+    <h1>List of students</h1>
+
+    <ol>
+        @{
+            foreach(Student stud in students)
+            {
+                @stud.StudentId
+                @stud.StudentName
+                @stud.StudentEmail
+                @stud.MobileNumber
+                @stud.StudentAddress
+                @stud.AdmissionDate
+                @stud.Fees
+                @stud.Status
+            }
+        }
+    </ol>
+}

@@ -1,0 +1,5 @@
+E:\Iacsd Assignment\.NET\Arrays\Program2.cs\obj\Debug\net8.0\CountRepeatedFreq.GeneratedMSBuildEditorConfig.editorconfig
+E:\Iacsd Assignment\.NET\Arrays\Program2.cs\obj\Debug\net8.0\CountRepeatedFreq.AssemblyInfoInputs.cache
+E:\Iacsd Assignment\.NET\Arrays\Program2.cs\obj\Debug\net8.0\CountRepeatedFreq.AssemblyInfo.cs
+E:\Iacsd Assignment\.NET\Arrays\Program2.cs\obj\Debug\net8.0\CountRepeatedFreq.csproj.CoreCompileInputs.cache
+E:\Iacsd Assignment\.NET\Arrays\Program2.cs\obj\Debug\net8.0\CountRepeatedFreq.sourcelink.json

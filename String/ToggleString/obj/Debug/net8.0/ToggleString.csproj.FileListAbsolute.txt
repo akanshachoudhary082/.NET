@@ -1,0 +1,15 @@
+E:\Iacsd Assignment\.NET\String\ToggleString\bin\Debug\net8.0\ToggleString.exe
+E:\Iacsd Assignment\.NET\String\ToggleString\bin\Debug\net8.0\ToggleString.deps.json
+E:\Iacsd Assignment\.NET\String\ToggleString\bin\Debug\net8.0\ToggleString.runtimeconfig.json
+E:\Iacsd Assignment\.NET\String\ToggleString\bin\Debug\net8.0\ToggleString.dll
+E:\Iacsd Assignment\.NET\String\ToggleString\bin\Debug\net8.0\ToggleString.pdb
+E:\Iacsd Assignment\.NET\String\ToggleString\obj\Debug\net8.0\ToggleString.GeneratedMSBuildEditorConfig.editorconfig
+E:\Iacsd Assignment\.NET\String\ToggleString\obj\Debug\net8.0\ToggleString.AssemblyInfoInputs.cache
+E:\Iacsd Assignment\.NET\String\ToggleString\obj\Debug\net8.0\ToggleString.AssemblyInfo.cs
+E:\Iacsd Assignment\.NET\String\ToggleString\obj\Debug\net8.0\ToggleString.csproj.CoreCompileInputs.cache
+E:\Iacsd Assignment\.NET\String\ToggleString\obj\Debug\net8.0\ToggleString.sourcelink.json
+E:\Iacsd Assignment\.NET\String\ToggleString\obj\Debug\net8.0\ToggleString.dll
+E:\Iacsd Assignment\.NET\String\ToggleString\obj\Debug\net8.0\refint\ToggleString.dll
+E:\Iacsd Assignment\.NET\String\ToggleString\obj\Debug\net8.0\ToggleString.pdb
+E:\Iacsd Assignment\.NET\String\ToggleString\obj\Debug\net8.0\ToggleString.genruntimeconfig.cache
+E:\Iacsd Assignment\.NET\String\ToggleString\obj\Debug\net8.0\ref\ToggleString.dll

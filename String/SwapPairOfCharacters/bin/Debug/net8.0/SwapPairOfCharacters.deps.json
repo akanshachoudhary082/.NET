@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SwapPairOfCharacters/1.0.0": {
+        "runtime": {
+          "SwapPairOfCharacters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SwapPairOfCharacters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
