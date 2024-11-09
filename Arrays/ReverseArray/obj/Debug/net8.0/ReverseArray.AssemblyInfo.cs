@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReverseArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6338dba427af1557aa0b76e91693ac8ba7ce50d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f725cba5a5e6b0d494b3777e37be7602ae91077")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReverseArray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReverseArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
